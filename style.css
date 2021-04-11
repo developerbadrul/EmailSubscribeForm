@@ -53,6 +53,7 @@ hr{
     color: royalblue;
     border: none;
     font-weight: bold;
+    text-align: center;
 }
 ::placeholder{
     text-align: center;
